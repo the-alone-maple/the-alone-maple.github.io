@@ -4,7 +4,7 @@ title: 'the-alone-maple s Blog'
 subtitle: 'Welcome to here,welcome to this great world !'
 date: 2017-04-18
 categories: 技术
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
+cover: 'https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2151231835,3215468080&fm=26&gp=0.jpg'
 tags: jekyll 移动开发 Android开发 Java开发
 ---
 
