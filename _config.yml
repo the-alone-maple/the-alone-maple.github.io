@@ -2,7 +2,7 @@
 title: 'the-alone-maple's Blog'
 description: 'Welcome to here,welcome to this great world !'
 keyword: 'maple, maple的独立博客, maple的博客, 移动开发, Android开发, 前端博客, Java, Kotlin, 设计'
-url: '' # your host
+url: 'https://the-alone-maple.github.io/' # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
